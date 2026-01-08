@@ -155,6 +155,9 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@FlyByWireSim
       name: FlyByWire Simulations on Youtube
+  version:
+    provider: mike
+    default: msfs2024
 
 # Additional Markdown Extensions to use bundled icon sets
 markdown_extensions:
